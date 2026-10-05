@@ -1,0 +1,5 @@
+# robots.txt for https://саркисян.pp.ua
+User-agent: *
+Allow: /
+
+Sitemap: https://саркисян.pp.ua/sitemap.xml
